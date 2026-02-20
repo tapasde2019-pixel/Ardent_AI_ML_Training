@@ -135,7 +135,7 @@ Display with cv2.imshow()
 
 **Bubai De**  
 B.Sc (Computer Science) · Haldia Institute of Management  
-Mentored by **SK Sahil** — [Code_ScholarEU](https://www.instagram.com/code_scholar_eu/)
+
 
 ---
 
